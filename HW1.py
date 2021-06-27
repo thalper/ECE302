@@ -66,7 +66,7 @@ def problem11():
     plt.hist(valuesz, bins, rwidth=0.8)
     plt.show()
 
-problem9()
-#problem10()
+#problem9()
+problem10()
 #problem11()
 
